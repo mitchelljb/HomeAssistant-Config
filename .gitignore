@@ -1,9 +1,0 @@
-
-ui-source/.DS_Store
-.DS_Store
-.DS_Store
-
-# I don’t want to show my secrets
-/config/secrets.yaml
-.secrets.yaml
-/.secrets.yaml
